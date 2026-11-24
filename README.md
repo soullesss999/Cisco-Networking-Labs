@@ -1,6 +1,6 @@
 # Lab 01 — VLAN Segmentation & Trunking
 
-## Objective
+## Objectives
 
 Configure VLAN segmentation and 802.1Q trunking
 across a small multi-switch network.
